@@ -52,7 +52,7 @@
 
   }
     //definimos un nombre solo para verificar si es valido
-    let username= "Auxi";
+    let username= "Auxiliatura";
     let isValid = validateUsername(username);
 
     console.log(isValid)

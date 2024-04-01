@@ -36,7 +36,7 @@
         return re.test(username);
     }
     //definimos un nombre solo para verificar si es valido
-    var username = "Auxi";
+    var username = "Auxiliatura";
     var isValid = validateUsername(username);
     console.log(isValid);
     //Una consideracion para aplicar DRY en el ejecicio 3 seria //
