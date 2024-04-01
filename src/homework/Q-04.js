@@ -63,6 +63,6 @@
     let isValidUsername = validate(usernames, 'usernames');
     console.log(isValidUsername);
   
-    //en este caso podemos usar la misma funcion para validar el correo y usuario a la vez
+    //en este caso podemos usar la misma funcion para validar el correo y usuario a la vez.
   */
 })();
